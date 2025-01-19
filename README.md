@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something amazing
-- 🌱 I’m currently learning DevOps and Go
-- 💬 Ask me about PHP, Laravel, DevOps, AWS, Linux, ...etc
-- 📫 How to reach me: iam@develalfy.me
+- 🚀 Currently working on exciting projects  
+- 📖 Exploring DevOps and Go to expand my skill set  
+- 💻 Ask me about PHP, Laravel, DevOps, AWS, Linux, and more  
+- 📩 Reach me at: [iam@develalfy.me](mailto:iam@develalfy.me)  
